@@ -103,7 +103,7 @@ h2 {
 
 .observation h3 {
   font-size: clamp(1.1rem, 2vw, 1.4rem);
-  margin-bottom: 1rem;
+  margin-bottom: 0.7rem;
 }
 
 .observation p {
@@ -111,7 +111,7 @@ h2 {
   font-weight: 400;
   padding: 0.3rem;
   margin-bottom: 1rem;
-  font-size: clamp(0.95rem, 1.5vw, 1.2rem);
+  font-size: clamp(0.95rem, 1.5vw, 1.125rem);
 }
 
 .summary {
